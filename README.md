@@ -95,5 +95,5 @@ Clears all of the existing cookies
 ```
 
 ## Author and License
-Created and maintained by [Alperen](https://github.com/alperentalaslioglu) under [MIT](LICENCE.md) License
+Created and maintained by [Alperen](https://github.com/alperentalaslioglu) under [MIT](LICENSE.md) License
 
